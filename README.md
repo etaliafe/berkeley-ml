@@ -1,11 +1,14 @@
 # berkeley_portfolio
 AI/ML portfolio
 
+
+# Customer Coupon Acceptance
+
 Will A Customer Accept a coupon?
 
 The notebook entitled "customer_coupon_acceptance_analysis.ipynb" (https://github.com/etaliafe/berkeley-ml/blob/e011954bfabb790f65caca3f3a2234500b291605/customer_coupon_acceptance_analysis.ipynb) is an analysis to determine what factors will lead to a customer acceptance of a coupon across various coupon types.  For this analysis I looked at two coupon types.  Bar Coupons and Coffee Coupons.  
 
-# Bar Coupon Analysis
+# # Bar Coupon Analysis
 The initial analysis was a guided analysis that took a look at the factors that led to a customer accepting a coupon to a bar.  For this analysis I looked at factors such as bar visit frequency, temperature, age, etc. to determine the affect on acceptance of bar coupons.  Based on that analyis the most prevailing factor that affected bar coupon acceptance rates was bar visit frequency.  Those individuals who visited a bar more than once a month had a noticeably higher acceptance rate, approx 77%, than the baseline* acceptance rate of approx. 57%. 
 
 # Coffee Coupon Analysis
