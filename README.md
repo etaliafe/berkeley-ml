@@ -1,6 +1,8 @@
 # berkeley_portfolio
 AI/ML portfolio
 
+# What Drives the price of a car?
+The notebook entitled "prompt_II_taliaferro.ipynb" (https://github.com/etaliafe/berkeley-ml/blob/main/prompt_II_taliaferro.ipynb) is an analytis on the different features that determine the price of a car. It contains the analysis and recommendations to used car dealers on how to tune their used car inventory to sell cars at higher prices.
 
 # Customer Coupon Acceptance
 
@@ -8,11 +10,10 @@ Will A Customer Accept a coupon?
 
 The notebook entitled "customer_coupon_acceptance_analysis.ipynb" (https://github.com/etaliafe/berkeley-ml/blob/e011954bfabb790f65caca3f3a2234500b291605/customer_coupon_acceptance_analysis.ipynb) is an analysis to determine what factors will lead to a customer acceptance of a coupon across various coupon types.  For this analysis I looked at two coupon types.  Bar Coupons and Coffee Coupons.  
 
-# # Bar Coupon Analysis
+Bar Coupon Analysis
 The initial analysis was a guided analysis that took a look at the factors that led to a customer accepting a coupon to a bar.  For this analysis I looked at factors such as bar visit frequency, temperature, age, etc. to determine the affect on acceptance of bar coupons.  Based on that analyis the most prevailing factor that affected bar coupon acceptance rates was bar visit frequency.  Those individuals who visited a bar more than once a month had a noticeably higher acceptance rate, approx 77%, than the baseline* acceptance rate of approx. 57%. 
 
-# Coffee Coupon Analysis
-
+Coffee Coupon Analysis
 The coffee coupon analysis was an analysis that aimed to solve the problem of determining the most significant factors that that drove a higher acceptance rate for coffee coupons.  For this analysis I looked at several factors that were available within the provided dataset and determined that the most signifiicant factors that led to higher acceptance rates were;
 
 1. Going to the coffee shop more than once a month
