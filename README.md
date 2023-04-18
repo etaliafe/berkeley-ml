@@ -1,7 +1,7 @@
 # berkeley_portfolio
 AI/ML portfolio
 
-#Which classifier performs the best between k-nearest neighbors, logistic regression, decision trees, and support vector machines?  
+# Which classifier performs the best between k-nearest neighbors, logistic regression, decision trees, and support vector machines?  
 
 I used accuracy as the metric to compare performance between these different classifiers.  Based on the results of my findings, the decision tree classifier had an accuracy of 0.8944, the logistic regression classifier had an accuracy of 0.8569, the K nearest neighbor classifier had an accuracy of 0.8814, and the SVC had an accuracy of 0.8810.  With these results the decision tree classifier had the highest accuracy with 0.8944 and SVC had the lowest accuracy with 0.8810.
 
