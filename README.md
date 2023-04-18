@@ -5,6 +5,8 @@ AI/ML portfolio
 
 I used accuracy as the metric to compare performance between these different classifiers.  Based on the results of my findings, the decision tree classifier had an accuracy of 0.8944, the logistic regression classifier had an accuracy of 0.8569, the K nearest neighbor classifier had an accuracy of 0.8814, and the SVC had an accuracy of 0.8810.  With these results the decision tree classifier had the highest accuracy with 0.8944 and SVC had the lowest accuracy with 0.8810.
 
+The notebook entitled "assigment_3_notebook.ipynb" (https://github.com/etaliafe/berkeley-ml/blob/main/assignment_3_notebook.ipynb) contains the classifier analysis.  
+
 
 # What Drives the price of a car?
 The notebook entitled "prompt_II_taliaferro.ipynb" (https://github.com/etaliafe/berkeley-ml/blob/main/prompt_II_taliaferro.ipynb) is an analytis on the different features that determine the price of a car. It contains the analysis and recommendations to used car dealers on how to tune their used car inventory to sell cars at higher prices.
