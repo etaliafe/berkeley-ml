@@ -1,6 +1,16 @@
 # berkeley_portfolio
 AI/ML portfolio
 
+
+# Capstone: Which factors lead to an individual's financial well being
+
+I have changed my original problem state for my capstone project. My new problem statement is to determine the primary factors that lead to an individual's financial well being.  I used a data set from the Consumer Financial Protection Bureau to perform this analysis.  The dataset is available at the following link https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/ I have also included the user guide for the dataset within this repo. It is entitled "cfpb_nfwbs-puf-user-guide.pdf".   
+
+Based on my analysis of the data the following factors are the primary indicators to determining an individual's financial well being. 1. Whether or not the individuals feels as if they are making ends meet.  2. How much an individual spend per month on housing with spending less than $300 a month being an indicator that an individual feels more positive about their financial well being. 3. The amount of household income with greater than $150k a year being and indicator that an individual feels more positive about their financial well being.  Not surprisingly, the indicator of whether or not an individual feels as if they are making ends meet was the most significant indicator of their financial well being.   
+
+Next Steps & Recommendations
+Next steps for this analysis would be to include weighted values within the regression models and to examine other population categories such as the Age 62+ oversample and the Race/ethnicity oversample to determine if the same indicators apply. Also I would recommend using polynomial features on the Financial skills score to determine if that can improve the mean squared error of the regression model I used for my final recommendations.
+
 # Which classifier performs the best between k-nearest neighbors, logistic regression, decision trees, and support vector machines?  
 
 I used accuracy as the metric to compare performance between these different classifiers.  Based on the results of my findings, the decision tree classifier had an accuracy of 0.8944, the logistic regression classifier had an accuracy of 0.8569, the K nearest neighbor classifier had an accuracy of 0.8814, and the SVC had an accuracy of 0.8810.  With these results the decision tree classifier had the highest accuracy with 0.8944 and SVC had the lowest accuracy with 0.8810.
